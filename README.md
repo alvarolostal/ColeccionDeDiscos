@@ -1,4 +1,4 @@
-# 🎵 GestionDeDiscos 🪩
+# 🎵 Colección de Discos
 
 Una herramienta Python para gestionar tu colección de discos utilizando las APIs de Discogs y Notion. Organiza tu música en categorías y mantén un registro profesional de tu colección.
 
